@@ -1,7 +1,7 @@
 {
     "name": "dicee_flutter_complete",
     "short_name": "dicee_flutter_complete",
-    "start_url": "https://alpiepho.github.io/Dicee-Flutter-Completed/index.html",
+    "start_url": "Dicee-Flutter-Completed/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
