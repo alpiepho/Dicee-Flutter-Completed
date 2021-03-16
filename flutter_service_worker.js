@@ -28,11 +28,11 @@ const RESOURCES = {
 // start.
 const CORE = [
   "/",
-"main.dart.js",
-"index.html",
-"assets/NOTICES",
-"assets/AssetManifest.json",
-"assets/FontManifest.json"];
+"https://alpiepho.github.io/Dicee-Flutter-Completed/main.dart.js",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/index.html",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/NOTICES",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/AssetManifest.json",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
 self.addEventListener("install", (event) => {
   self.skipWaiting();
