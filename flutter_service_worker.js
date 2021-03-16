@@ -3,31 +3,31 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "1c9f7474eb955e23603cf0c3da73ffb5",
-"index.html": "66c35f3501fc66b9a82ffe988c5e2f4b",
-"/": "66c35f3501fc66b9a82ffe988c5e2f4b",
-"main.dart.js": "95c6bc8d8d70bb11a843647777d4de5d",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "eda19fa047a87a17198e2f9841bbae49",
-"assets/images/dice1.png": "5e0580134cde323cc6e2d54254b1a605",
-"assets/images/dice3.png": "683bc715f147a48b2e2dcabf2d573a05",
-"assets/images/dice2.png": "524559a3d0e61efa7b8a165bd2bad0da",
-"assets/images/dice6.png": "2d7642d5229bb083f5e59cf1cee4aa28",
-"assets/images/dice5.png": "ae4a1c88865e22a54c7aeb91f18db784",
-"assets/images/dice4.png": "3c7e0c5d05aeaa567bb90faf18f79f38",
-"assets/AssetManifest.json": "30c79ea6fc759e0ecf377d8db511e22a",
-"assets/NOTICES": "fe2c58ae1946fdf8615c063852333f2b",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac"
+  "https://alpiepho.github.io/Dicee-Flutter-Completed/version.json": "1c9f7474eb955e23603cf0c3da73ffb5",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/index.html": "66c35f3501fc66b9a82ffe988c5e2f4b",
+"https://alpiepho.github.io/Dicee-Flutter-Completed//": "66c35f3501fc66b9a82ffe988c5e2f4b",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/main.dart.js": "95c6bc8d8d70bb11a843647777d4de5d",
+"fhttps://alpiepho.github.io/Dicee-Flutter-Completed/avicon.png": "5dcef449791fa27946b3d35ad8803796",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/manifest.json": "eda19fa047a87a17198e2f9841bbae49",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/images/dice1.png": "5e0580134cde323cc6e2d54254b1a605",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/images/dice3.png": "683bc715f147a48b2e2dcabf2d573a05",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/images/dice2.png": "524559a3d0e61efa7b8a165bd2bad0da",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/images/dice6.png": "2d7642d5229bb083f5e59cf1cee4aa28",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/images/dice5.png": "ae4a1c88865e22a54c7aeb91f18db784",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/images/dice4.png": "3c7e0c5d05aeaa567bb90faf18f79f38",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/AssetManifest.json": "30c79ea6fc759e0ecf377d8db511e22a",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/NOTICES": "fe2c58ae1946fdf8615c063852333f2b",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
+"https://alpiepho.github.io/Dicee-Flutter-Completed/assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac"
 };
 
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
+  "https://alpiepho.github.io/Dicee-Flutter-Completed//",
 "https://alpiepho.github.io/Dicee-Flutter-Completed/main.dart.js",
 "https://alpiepho.github.io/Dicee-Flutter-Completed/index.html",
 "https://alpiepho.github.io/Dicee-Flutter-Completed/assets/NOTICES",
